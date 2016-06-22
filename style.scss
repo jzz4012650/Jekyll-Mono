@@ -213,7 +213,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; 
+  margin-top: 23px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -230,7 +230,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-    
+
     &:hover, &:active {
       color: darken($navbar-hover-color,20);
     }
@@ -266,6 +266,20 @@ nav {
     font-style: italic;
   }
 
+  code {
+    background: #f3f3f3;
+    padding: 0 .2em;
+    border: solid 1px #dcdcdc;
+    border-radius: 0.2em;
+  }
+
+  pre {
+    code {
+      background: transparent;
+      border: 0;
+    }
+  }
+
   .comments {
     margin-top: 10px;
   }
@@ -281,6 +295,10 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  .back-home{
+    float: left;
+    color: $mono-color;
+  }
 }
 
 footer {

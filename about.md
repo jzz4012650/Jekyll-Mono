@@ -4,52 +4,45 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+前端开发工程师，擅长企业级富交互WEB开发，兼做各种WEB可视化。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+逗逼一枚，比较宅，偶尔出去玩玩摄影，不怎么会拍妹子（至少妹子都是这么说的），喜欢唱歌，虽然唱的不咋样。
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* 2010-2014 信息安全 本科 电子科技大学
 
 ## Roles
 
-Founder, ABC Organisation
+WEB前端开发，企业安全，奇虎360
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
-## Achievements
+* **WEB前端** - `JS` / `CSS(3)` / `HTML(5)` / `SVG` / `React` / `jQuery` / `D3` / `Three`
+* **设计** - `PS` / `Sketch`
+* **Others** - `Java` / `Android` / `Node`
 
 
-* [**This is my first achievement**](#) 
-   
+<!-- ## Achievements
+
+
+* [**This is my first achievement**](#)
+
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**This is my second achievement**](#)
 
     Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my third achievement**](#) 
+* [**This is my third achievement**](#)
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+ -->
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[jinzhenzu@360.cn](mailto:jinzhenzu@360.cn) ／ [jinzhenzu@gmail.com](mailto:jinzhenzu@gmail.com)
