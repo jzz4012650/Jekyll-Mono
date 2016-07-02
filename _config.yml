@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: jzz4012650
+name: Jzz
 
 # Short bio or description (displayed in the header)
 description: Programmer From Qihoo360 in Beijing
@@ -35,7 +35,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-80245821-1
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
