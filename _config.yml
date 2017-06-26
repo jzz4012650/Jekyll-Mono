@@ -6,7 +6,7 @@
 name: Jzz
 
 # Short bio or description (displayed in the header)
-description: Programmer From Qihoo360 in Beijing
+description: Developer From Qihoo360 in Beijing
 
 
 #
@@ -23,7 +23,7 @@ footer-links:
   instagram:
   linkedin: https://www.linkedin.com/in/振祖-金-693437a5/
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: Jzz's blog # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -39,7 +39,7 @@ google_analytics: UA-80245821-1
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://thejzz.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
